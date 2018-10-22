@@ -11,7 +11,7 @@ that don't exist in the app yet. Here are some examples!
 1. Allow the user to create multiple "lists" of Todos.
 2. Add a "priority" value to Todos so a user can assign a priority value to each Todo
 and then the list will sort those higher.
-3. Allow the user to select an Icon to go with each items.
+3. Allow the user to select an Icon to go with each item.
 4. Move the Create Todo functionality to it's own route!
 
 These are just some examples, but you can also do other crazier things if you want!
